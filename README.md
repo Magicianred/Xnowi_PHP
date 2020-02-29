@@ -4,6 +4,8 @@ Project xnowi is based on a simple concept, the separation of content from prese
 
 Xnowi is a library, you can include it in your project and call the method for transform XML through XSL for generate a new version of source.
 
+You can show a [Demo site with Xnowi](http://simone.paolucci.name/xnowi/home.php).
+
 ## Required
 - PHP > 5.6
 - XSL ext by php.ini
