@@ -1,0 +1,10 @@
+*.php linguist-detectable=true
+*.xml linguist-detectable=false
+*.xsl linguist-detectable=false
+*.html linguist-detectable=false
+*.js linguist-detectable=false
+*.txt linguist-detectable=false
+*.INFO linguist-detectable=false
+*.INFO_it linguist-detectable=false
+*.LICENSE linguist-detectable=false
+*.roff linguist-detectable=false
