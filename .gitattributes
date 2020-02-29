@@ -8,3 +8,5 @@
 *.INFO_it linguist-detectable=false
 *.LICENSE linguist-detectable=false
 *.roff linguist-detectable=false
+*.3 linguist-detectable=false
+*.2 linguist-detectable=false
