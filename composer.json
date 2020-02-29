@@ -6,7 +6,7 @@
         "php": ">=5.6.0",
         "ext-xsl": ">=5.6"
     },
-    "license": "GNU LAGPLv3 Lesser Affero General Public License v3",
+    "license": "AGPL-3.0-only",
     "authors": [
         {
             "name": "Simone \"Magicianred\" Paolucci",
