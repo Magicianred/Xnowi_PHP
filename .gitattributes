@@ -3,3 +3,6 @@
 *.xsl linguist-detectable=true
 *.html linguist-detectable=false
 *.js linguist-detectable=false
+*.txt linguist-detectable=false
+*.INFO linguist-detectable=false
+*.INFO_it linguist-detectable=false
