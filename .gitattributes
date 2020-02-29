@@ -7,3 +7,4 @@
 *.INFO linguist-detectable=false
 *.INFO_it linguist-detectable=false
 *.LICENSE linguist-detectable=false
+*.roff linguist-detectable=false
