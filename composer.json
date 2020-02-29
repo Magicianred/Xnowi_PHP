@@ -1,0 +1,22 @@
+{
+    "name": "magicianred/xnowi",
+    "description": "Project xnowi is based on a simple concept, the separation of content from presentation through XML and XSLT. A single XML and many XSL to get many different results, not all visual.",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0",
+        "ext-xsl": ">=5.6"
+    },
+    "license": "GNU LAGPLv3 Lesser Affero General Public License v3",
+    "authors": [
+        {
+            "name": "Simone \"Magicianred\" Paolucci",
+            "email": "magicianred@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Xnowi\\": "src"
+        }
+    }
+}

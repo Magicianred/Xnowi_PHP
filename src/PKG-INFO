@@ -1,0 +1,55 @@
+Metadata-Version: 0.2
+Name: xnowi
+Version: php-0.2
+Summary: Use xnowi for create multiple output of your web site
+Home-page: http://simone.paolucci.name/xnowi
+Author: Simone Paolucci
+Author-email: info@simone.paolucci.name
+License: Lesser Affero General Public License v3
+Download-URL: http://simone.paolucci.name/xnowi/download.php
+Description: 
+        xnowi - xnowi not only web interface
+        ******************************************************
+        
+        xnowi using XML and XSL allows to realize multiple output of websites.
+        For instance, you can create a web, a mobile and print version of own website.
+        It also allows the internalization of the contents and of the interface by creating an XML file for each language.
+                
+        
+		Install Information
+        ==============
+        
+        xnowi is contained in to folder "xnowi" to be insert as a sub-folder in the root directory of your site
+        (example: " /yourapp " is the root directory, " /yourapp/xnowi " ).
+        
+        xnowi consists in 3 files: " /xnowi/xnowiEngine.php ", " /xnowi/configs/config.php " and " /xnowi/includes/xmlUtility.php ". 
+			- " /xnowi/xnowiEngine.php " :
+				It's the engine of xnowi: receives the calls, processes the parameters and make transformation
+				
+			- " /xnowi/configs/config.php "
+				It's the configuration file of xnowi
+			
+			- " /xnowi/includes/xmlUtility.php "
+				It's utility file for use some features of XML                
+        
+        
+        Information
+        ===========
+        
+        Author:
+        Simone Paolucci <info@simone.paolucci.name>
+        
+        Version:
+        0.2
+        
+        Date:
+        February 29, 2020
+        
+        URL:
+        http://simone.paolucci.name/xnowi
+        
+        License:
+        Lesser Affero General Public License v3
+        
+        PHP Versions:
+        5.x+
